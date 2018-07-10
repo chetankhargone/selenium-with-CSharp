@@ -1,0 +1,19 @@
+{
+  "HomePage": {
+    "Elements": {
+      "Id": [
+        "txtEmail",
+        "txtPassword",
+        "btnSubmit"
+      ],
+      "Class": [
+        "container",
+        "jumbotron"
+      ],
+      "Tags": [
+        "h1",
+        "p"
+      ]
+    }
+  }
+}

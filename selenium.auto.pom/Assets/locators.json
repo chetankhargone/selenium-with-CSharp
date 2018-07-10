@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "Url": "https://selenium-kgn.azurewebsites.net",
+    "Elements": {
+      "Id": [
+        "txtEmail",
+        "txtPassword",
+        "btnSubmit"
+      ],
+      "Class": [
+        "container",
+        "jumbotron"
+      ],
+      "Tags": [
+        "h1",
+        "p"
+      ]
+    }
+  }
+}
